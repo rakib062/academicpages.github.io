@@ -13,7 +13,7 @@ name                     : &name "Rakibul Hasan"
 description              : &description "Research Assistant @Indiana University"
 url                      : https://rakib062.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ author:
   name             : "Rakibul Hasan"
   avatar           : "profile.png"
   bio              : "Research assistant at Indiana University"
-  location         : "Location"
+  location         : "Bloomington, IN"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=j71OXqwAAAAJ&hl=en" #"http://yourfullgooglescholarurl.com"
   email            :
@@ -100,10 +100,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/1390091/rakib
   steam            :
   tumblr           :
   twitter          : "rakib062"
