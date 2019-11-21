@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Work Experience"
+permalink: /jobs/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.jobs reversed %}
+  {% include archive-single.html %}
+{% endfor %}
