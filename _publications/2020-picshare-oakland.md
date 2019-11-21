@@ -3,7 +3,7 @@ title: "Influencing Photo Sharing Decisions on Social Media: A Case of Paradoxic
 collection: publications
 permalink: /publication/picshare-oakland-2020
 venue: 'IEEE Symposium on Security and Privacy'
+excerpt: 'This paper is about testing.'
 date: 2020-05-18
 paperurl: https://rakib062.github.io/files/picshare-oakland-2020.pdf
-citation: 'Amon, M. J., Hasan, R., Hugenberg, K., Bertenthal, B. I., and Kapadia, A. (2020). Influencing Photo Sharing Decisions on Social Media: A Case of Paradoxical Findings. In the Proceedings of the IEEE Symposium on Security and Privacy, To appear'.
 ---
