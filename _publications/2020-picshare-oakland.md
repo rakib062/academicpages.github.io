@@ -3,9 +3,7 @@ title: "Influencing Photo Sharing Decisions on Social Media: A Case of Paradoxic
 collection: publications
 permalink: /publication/picshare-oakland-2020
 venue: 'IEEE Symposium on Security and Privacy'
-date: 2009-10-01
-paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
+date: 2020-05-18
 ---
 
 
