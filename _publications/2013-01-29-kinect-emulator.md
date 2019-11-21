@@ -1,0 +1,8 @@
+---
+title: "A novel approach for constructing emulator for Microsoft Kinect XBOX 360 Sensor in the. NET platform"
+collection: publications
+permalink: /publication/2013-01-29-kinect
+venue: 'International Conference on Intelligent Systems, Modelling and Simulation'
+date: 2013-01-29
+paperurl: https://rakib062.github.io/files/kinect-emulator.pdf
+---
