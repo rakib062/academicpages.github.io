@@ -4,7 +4,5 @@ collection: publications
 permalink: /publication/cartoon-cvcops-2017
 venue: 'International Conference on Intelligent Systems, Modelling and Simulation'
 date:2009-10-01
-
+paperurl: https://rakib062.github.io/files/kinect-emulator.pdf
 ---
-
-[pdf](https://rakib062.github.io/files/kinect-emulator.pdf) [bibtex](https://rakib062.github.io/files/kinect-emulator.bib)
