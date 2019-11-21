@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/cartoon-chi-2019
 venue: 'In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3300597'
-date:2019
 
 ---
 
