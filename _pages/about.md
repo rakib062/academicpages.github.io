@@ -23,5 +23,5 @@ Research Summary
 </p>
 
 <p>
-	I am also interested in Complex Systems and Network Science. I am leading a separate project where I study the effects of positive and negative stimuli on behavioral changes in large social networks.
+	I am also interested in complex social network analysis, with a focus on measuring how the agents in such systems react to external stimuli emerging from their interactions and change their behaviors.
 </p>
