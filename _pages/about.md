@@ -15,7 +15,7 @@ Research Summary
 ======
  
 <p>
-	My research goal is to help people better manage <u>their own</u> and <u>other peoples'</u> privacy while sharing images on online social media platforms.
+	My research goal is to help people better manage <u>their own</u> and avoid harming <u>other people's</u> privacy while sharing images on online social media platforms.
 </p>
 
 <p>
