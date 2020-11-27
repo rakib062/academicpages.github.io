@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi there! 
-I am Rakib, a fifth-year Ph.D. student at the Dept. of Computer Science, Indiana University.  My thesis advisor is <a href="https://www.cs.indiana.edu/~kapadia/">Prof. Apu Kapadia</a>. Before coming here I obtained my bachelor in Computer Science from Bangladesh University of Engineering and Technology in 2012.
+I am Rakib. I am a postdoctoral researcher at <a href="https://cispa.de/en">CISPA Helmholtz Center for Information Security</a>. I completed my Ph.D. in Computer Science from Indiana University Bloomington, under the supervision of <a href="https://www.cs.indiana.edu/~kapadia/">Prof. Apu Kapadia</a>. Prior to that I obtained my bachelor in Computer Science from Bangladesh University of Engineering and Technology in 2012.
 
 Research Summary
 ======
