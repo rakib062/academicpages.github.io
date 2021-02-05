@@ -26,7 +26,7 @@ Research Summary
 	I am also interested in complex social network analysis, with a focus on measuring how the agents in such systems react to external stimuli emerging from their interactions and change their behaviors.
 </p>
 
-<h2 style="color:darkgray">News</h2>
+<h2 style="color:red">News</h2>
 <table style="width:100%; border-collapse: collapse; border:none">
   <tr style="border: none;font-family:verdana;">
     <td style="border: none;"><b>January 2021</b></td> 
