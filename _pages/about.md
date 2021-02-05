@@ -33,4 +33,9 @@ News
     <td style="border: none;"><b>January 2021</b></td> 
     <td style="border: none;">Our <a href="https://rakib062.github.io/toAppear/2020-05-18-picshare-oakland">Oakland'20</a> paper was a runner-up for the <a href="https://www.cnil.fr/en/inria-and-cnil-award-2020-privacy-protection-prize"> <b>5th CNIL-INRIA Privacy Award</b></a>. </td>
   </tr>
+
+  <tr style="border: none;">
+    <td style="border: none;"><b>December 2020</b></td> 
+    <td style="border: none;">Paper accepted at <a href="http://chi2021.acm.org/"><b>CHI 2021</b></a>. </td>
+  </tr>
 </table>
