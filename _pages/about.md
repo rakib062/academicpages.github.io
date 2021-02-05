@@ -25,3 +25,12 @@ Research Summary
 <p>
 	I am also interested in complex social network analysis, with a focus on measuring how the agents in such systems react to external stimuli emerging from their interactions and change their behaviors.
 </p>
+
+News
+======
+<table style="width:100%">
+  <tr>
+    <td>[January 2021]</td> 
+    <td>Our <a href="https://rakib062.github.io/toAppear/2020-05-18-picshare-oakland">Oakland'20</a> paper was a runner-up for the <a href="url"> <b>5th CNIL-INRIA Privacy Award</b></a>. </td>
+  </tr>
+</table>
