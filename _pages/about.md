@@ -38,4 +38,9 @@ News
     <td style="border: none;"><b>December 2020</b></td> 
     <td style="border: none;">Paper accepted at <a href="http://chi2021.acm.org/"><b>CHI 2021</b></a>. </td>
   </tr>
+
+  <tr style="border: none;">
+    <td style="border: none;"><b>Septempber 2020</b></td> 
+    <td style="border: none;">Succesfully defended my dissertation!</td>
+  </tr>
 </table>
