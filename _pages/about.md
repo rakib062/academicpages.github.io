@@ -28,9 +28,9 @@ Research Summary
 
 News
 ======
-<table style="width:100%">
+<table style="width:100%; border:hidden">
   <tr>
-    <td>[January 2021]</td> 
-    <td>Our <a href="https://rakib062.github.io/toAppear/2020-05-18-picshare-oakland">Oakland'20</a> paper was a runner-up for the <a href="url"> <b>5th CNIL-INRIA Privacy Award</b></a>. </td>
+    <td><b>January 2021</b></td> 
+    <td>Our <a href="https://rakib062.github.io/toAppear/2020-05-18-picshare-oakland">Oakland'20</a> paper was a runner-up for the <a href="https://www.cnil.fr/en/inria-and-cnil-award-2020-privacy-protection-prize"> <b>5th CNIL-INRIA Privacy Award</b></a>. </td>
   </tr>
 </table>
